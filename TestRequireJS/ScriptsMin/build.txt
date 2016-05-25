@@ -1,0 +1,15 @@
+
+common.js
+----------------
+require.js
+libs/jquery-1.10.2.js
+libs/domReady.js
+domReady!
+common.js
+
+pages/home.js
+----------------
+libs/text.js
+text!test/text.txt
+foo.js
+pages/home.js
